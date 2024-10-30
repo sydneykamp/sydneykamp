@@ -5,10 +5,10 @@ Welcome to my GitHub! I’m a web design and development student excited to shar
 ## 🌟 About Me
 
 - 🔭 I’m currently learning: HTML, CSS, JavaScript, and PHP. 
-- 🌱 I’m working on: trying to make a small game using JavaScript.
+- 🌱 I’m currently working on: trying to make a small game using JavaScript.
 - 💬 Feel free to reach out to me for any questions or collaborations!
 
-Thanks for visiting my profile! I'm excited to share my journey and connect with others in the community. 
+I can't wait to share my process and connect with others in the community. 
 
 
 <!--
