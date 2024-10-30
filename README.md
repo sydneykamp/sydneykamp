@@ -1,7 +1,6 @@
-## Hi there 👋
-# Welcome to My GitHub Profile!
+## Hello, I'm Sydney! 👋
 
-I'm Sydney Kampjes, a web design and development student eager to learn and grow in the world of coding.
+Welcome to my GitHub! I’m a web design and development student excited to share my projects and learning journey with you.
 
 ## 🌟 About Me
 
